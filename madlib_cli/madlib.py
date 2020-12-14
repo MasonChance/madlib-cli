@@ -88,6 +88,6 @@ def get_user_words(initial_str):
 
 
 def merge(t3mpl8_story, results):
-
-  return t3mpl8_story.format(results)
+  a, b, c = results
+  return t3mpl8_story.format(a, b, c)
   

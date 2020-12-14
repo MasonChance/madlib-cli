@@ -18,4 +18,4 @@ The purpose of this application is to familiarize myself with the processes invo
 
 ### Table of Contents
 
-[PR for first Submission]()
+[PR for first Submission](https://github.com/MasonChance/madlib-cli/pull/1)
